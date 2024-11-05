@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gross_profit_by_sales_invoice *.css
+recursive-include gross_profit_by_sales_invoice *.csv
+recursive-include gross_profit_by_sales_invoice *.html
+recursive-include gross_profit_by_sales_invoice *.ico
+recursive-include gross_profit_by_sales_invoice *.js
+recursive-include gross_profit_by_sales_invoice *.json
+recursive-include gross_profit_by_sales_invoice *.md
+recursive-include gross_profit_by_sales_invoice *.png
+recursive-include gross_profit_by_sales_invoice *.py
+recursive-include gross_profit_by_sales_invoice *.svg
+recursive-include gross_profit_by_sales_invoice *.txt
+recursive-exclude gross_profit_by_sales_invoice *.pyc

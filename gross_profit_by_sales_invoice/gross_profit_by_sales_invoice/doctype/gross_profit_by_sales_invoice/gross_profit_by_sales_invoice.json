@@ -1,0 +1,28 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-05-14 19:03:02.228518",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "data_1"
+ ],
+ "fields": [
+  {
+   "fieldname": "data_1",
+   "fieldtype": "Data",
+   "label": "Gross Profit By Sales Invoice"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-05-14 19:03:24.450729",
+ "modified_by": "Administrator",
+ "module": "Gross Profit By Sales Invoice",
+ "name": "Gross Profit By Sales Invoice",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
